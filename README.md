@@ -1,4 +1,4 @@
-# AGsNews_Classification
+# Text Mining and Data Vizualization project
 
 The main purposes of our analysis are: The construction of class clusters to compare them to the true categories that we have, through the two main Topic Modelling methods: LDA and NMF
 
